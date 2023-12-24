@@ -52,6 +52,6 @@ git apply readme.patch
 
 `git diff` and `git apply` are powerful tools that can make it easy to share changes with peers and collaborate on projects. By understanding how to use these commands, you can streamline your development workflow and improve the quality of your code.
 
-Connect with me on [LinkedIn](//linkedin.com/in/singhkunal2050) | Tweet me at [Twitter](//twitter.com/singhkunal2050) 
+Connect with me on [LinkedIn](//linkedin.com/in/Adrian Kasito) | Tweet me at [Twitter](//twitter.com/Adrian Kasito) 
 
 Happy Coding!!

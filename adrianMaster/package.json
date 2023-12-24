@@ -1,5 +1,5 @@
 {
-  "name": "singhkunal2050v2",
+  "name": "Adrian Kasitov2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,15 +13,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/singhkunal2050/singhkunal2050v2.git"
+    "url": "git+https://github.com/Adrian Kasito/Adrian Kasitov2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/singhkunal2050/singhkunal2050v2/issues"
+    "url": "https://github.com/Adrian Kasito/Adrian Kasitov2/issues"
   },
-  "homepage": "https://github.com/singhkunal2050/singhkunal2050v2#readme",
+  "homepage": "https://github.com/Adrian Kasito/Adrian Kasitov2#readme",
   "dependencies": {
     "eleventy-critical-css": "^1.0.0",
     "eleventy-plugin-pwa": "^1.0.8",

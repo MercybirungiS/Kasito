@@ -85,6 +85,6 @@ Could I BE any happier if you found this post helpful? 😄
 
 Got any questions? Let's connect on LinkedIn, tweet me on Twitter, or simply drop me a line. I'll be there for you, like a reliable npm package! 
 
-Connect with me on <a href="//linkedin.com/in/singhkunal2050" target="_blank">LinkedIn</a> | Tweet me at <a href="//twitter.com/singhkunal2050" target="_blank">Twitter</a> | Visit <a href="/" target="_blank">@singhkunal2050</a> | Write me <a href="/#contact" target="_blank">here</a>.
+Connect with me on <a href="//linkedin.com/in/Adrian Kasito" target="_blank">LinkedIn</a> | Tweet me at <a href="//twitter.com/Adrian Kasito" target="_blank">Twitter</a> | Visit <a href="/" target="_blank">@Adrian Kasito</a> | Write me <a href="/#contact" target="_blank">here</a>.
 
 Happy Coding!!

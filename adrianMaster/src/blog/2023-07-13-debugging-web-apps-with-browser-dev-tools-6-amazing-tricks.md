@@ -52,7 +52,7 @@ Ever tried logging the same value like the `window.screenY` in the console multi
 <!-- Attach Image -->
 
 You can check the following example and open the dev tools before the clicking the button to see how it stops the code execution and we can see see the code extension state with the variables state and other details.
-https://codepen.io/singhkunal2050/pen/qBQxRPN?editors=1010
+https://codepen.io/Adrian Kasito/pen/qBQxRPN?editors=1010
 
 ####  6. Streamline Development with Browser Overrides 🤯
 

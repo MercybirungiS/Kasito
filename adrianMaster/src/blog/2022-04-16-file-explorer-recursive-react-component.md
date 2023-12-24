@@ -146,6 +146,6 @@ All we are trying to do here is simply is.
 
 
 
-I hope you learned something new today if you did then please share this post with your friends who might find this useful aswell. Have any questions? Feel free to connect with me on     <a href="//linkedin.com/in/singhkunal2050" target="_blank">LinkedIn</a> <a href="//twitter.com/singhkunal2050" target="_blank">Twitter</a>  <a href="/" target="_blank">@singhkunal2050</a>. You can also write me <a href="/#contact" target="_blank">here</a>.
+I hope you learned something new today if you did then please share this post with your friends who might find this useful aswell. Have any questions? Feel free to connect with me on     <a href="//linkedin.com/in/Adrian Kasito" target="_blank">LinkedIn</a> <a href="//twitter.com/Adrian Kasito" target="_blank">Twitter</a>  <a href="/" target="_blank">@Adrian Kasito</a>. You can also write me <a href="/#contact" target="_blank">here</a>.
 
 *Happy Coding 👩‍💻!*

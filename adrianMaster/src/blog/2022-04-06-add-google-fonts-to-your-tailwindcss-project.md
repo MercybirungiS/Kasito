@@ -96,4 +96,4 @@ module.exports = {
 
 ![font-classes select tailwind](/img/post/font.png)
 
-<p>I hope you learned something new today if you did then please share this post with your friends who might find this useful aswell. Have any questions? Feel free to connect with me on&nbsp;<a href="https://linkedin.com/in/singhkunal2050">LinkedIn</a>&nbsp;<a href="https://twitter.com/singhkunal2050">Twitter</a>&nbsp;<a href="https://singhkunal2050.dev/">@singhkunal2050</a>. You can also write me&nbsp;<a href="https://singhkunal2050.dev/#contact">here</a>.</p>
+<p>I hope you learned something new today if you did then please share this post with your friends who might find this useful aswell. Have any questions? Feel free to connect with me on&nbsp;<a href="https://linkedin.com/in/Adrian Kasito">LinkedIn</a>&nbsp;<a href="https://twitter.com/Adrian Kasito">Twitter</a>&nbsp;<a href="https://Adrian Kasito.dev/">@Adrian Kasito</a>. You can also write me&nbsp;<a href="https://Adrian Kasito.dev/#contact">here</a>.</p>

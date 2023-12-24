@@ -165,14 +165,14 @@ let foo = () =>{
  ![website logo](/img/icon.png)
 
  Adding Image with URL
- [ ![website logo](/img/icon.png)](https://singhkunal2050v2.netlify.app/)]
+ [ ![website logo](/img/icon.png)](https://Adrian Kasitov2.netlify.app/)]
 ```
 
 will give 
 
 <img src="/img/icon.png" style="max-width:100px; float:left">
 
-<a href="https://singhkunal2050v2.netlify.app/"><img src="/img/icon.png" alt="website logo" style="max-width:100px;"></a>
+<a href="https://Adrian Kasitov2.netlify.app/"><img src="/img/icon.png" alt="website logo" style="max-width:100px;"></a>
 
 <br>
 <hr>
@@ -214,6 +214,6 @@ And with that I hope you can now write a basic documentation for your projects a
 <iframe width="677" height="381" src="https://www.youtube.com/embed/HUBNt18RFbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-I hope you learned something new today if you did then please share this post with your friends who might find this useful aswell. Have any questions? Feel free to connect with me on     <a href="//linkedin.com/in/singhkunal2050" target="_blank">LinkedIn</a> <a href="//twitter.com/singhkunal2050" target="_blank">Twitter</a>  <a href="/" target="_blank">@singhkunal2050</a>. You can also write me <a href="/#contact" target="_blank">here</a>.
+I hope you learned something new today if you did then please share this post with your friends who might find this useful aswell. Have any questions? Feel free to connect with me on     <a href="//linkedin.com/in/Adrian Kasito" target="_blank">LinkedIn</a> <a href="//twitter.com/Adrian Kasito" target="_blank">Twitter</a>  <a href="/" target="_blank">@Adrian Kasito</a>. You can also write me <a href="/#contact" target="_blank">here</a>.
 
 *Happy Coding 👩‍💻!*

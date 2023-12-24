@@ -26,9 +26,9 @@ Enough talk lets see the code
 
 # You can check this codepen for live example of all the points covered in this blog
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="bGWJvXO" data-preview="true" data-user="singhkunal2050" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/singhkunal2050/pen/bGWJvXO">
-  Responsive Typography CSS</a> by Kunal SIngh  (<a href="https://codepen.io/singhkunal2050">@singhkunal2050</a>)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="bGWJvXO" data-preview="true" data-user="Adrian Kasito" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/Adrian Kasito/pen/bGWJvXO">
+  Responsive Typography CSS</a> by Kunal SIngh  (<a href="https://codepen.io/Adrian Kasito">@Adrian Kasito</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -142,6 +142,6 @@ Remember how we used media queries to swap font sizes on the basis of `window` w
 
 </div>
 
-I hope you learned something new today if you did then please share this post with your friends who might find this useful aswell. Have any questions? Feel free to connect with me on     <a href="//linkedin.com/in/singhkunal2050" target="_blank">LinkedIn</a> <a href="//twitter.com/singhkunal2050" target="_blank">Twitter</a>  <a href="/" target="_blank">@singhkunal2050</a>. You can also write me <a href="/#contact" target="_blank">here</a>.
+I hope you learned something new today if you did then please share this post with your friends who might find this useful aswell. Have any questions? Feel free to connect with me on     <a href="//linkedin.com/in/Adrian Kasito" target="_blank">LinkedIn</a> <a href="//twitter.com/Adrian Kasito" target="_blank">Twitter</a>  <a href="/" target="_blank">@Adrian Kasito</a>. You can also write me <a href="/#contact" target="_blank">here</a>.
 
 *Happy Coding 👩‍💻!*

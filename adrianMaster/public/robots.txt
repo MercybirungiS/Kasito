@@ -1,2 +1,2 @@
 
-User-agent: * Allow: / Sitemap: https://singhkunal2050.dev/sitemap.xml
+User-agent: * Allow: / Sitemap: https://Adrian Kasito.dev/sitemap.xml

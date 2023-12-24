@@ -89,9 +89,9 @@ We all had a margin in the left side of the note-book since we write in English\
 
 In summary if you start using logical properties in your css. You will have a more accessible UI which works across different languages and writing modes.
 
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="RwgmowR" data-user="singhkunal2050" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/singhkunal2050/pen/RwgmowR">
-  Logical Properties CSS Examples</a> by Kunal SIngh  (<a href="https://codepen.io/singhkunal2050">@singhkunal2050</a>)
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="RwgmowR" data-user="Adrian Kasito" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/Adrian Kasito/pen/RwgmowR">
+  Logical Properties CSS Examples</a> by Kunal SIngh  (<a href="https://codepen.io/Adrian Kasito">@Adrian Kasito</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
@@ -148,6 +148,6 @@ Here you just have to remember the rules for block and inline flow. These are pa
 `padding-inline-end` ,
 `padding-inline-start`
 
-I hope you learned something new today if you did then please share this post with your friends who might find this useful aswell. Have any questions? Feel free to connect with me on     <a href="//linkedin.com/in/singhkunal2050" target="_blank">LinkedIn</a> <a href="//twitter.com/singhkunal2050" target="_blank">Twitter</a>  <a href="/" target="_blank">@singhkunal2050</a>. You can also write me <a href="/#contact" target="_blank">here</a>.
+I hope you learned something new today if you did then please share this post with your friends who might find this useful aswell. Have any questions? Feel free to connect with me on     <a href="//linkedin.com/in/Adrian Kasito" target="_blank">LinkedIn</a> <a href="//twitter.com/Adrian Kasito" target="_blank">Twitter</a>  <a href="/" target="_blank">@Adrian Kasito</a>. You can also write me <a href="/#contact" target="_blank">here</a>.
 
 *Happy Coding 👩‍💻!*
