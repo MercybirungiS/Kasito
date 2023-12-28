@@ -28,11 +28,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "05b48e79e8797d7f92f19ab3e052c2bb"
+    "revision": "8b2175f1d3e98774f7c67fe136b30f12"
   },
   {
     "url": "about/index.html",
-    "revision": "a33113cd58e9238763e4a243f6ea96cb"
+    "revision": "4739ba63fdd861631ffbae5fc8f715a0"
   },
   {
     "url": "admin/index.html",
@@ -40,83 +40,83 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/2021-07-31-what-is-jamstack-✨/index.html",
-    "revision": "e407328aed2566d1e6e9cafe294820f9"
+    "revision": "bf9e0c7b6d7289a03095429a5b6490cc"
   },
   {
     "url": "blog/2021-08-01-master-markdown-in-5minutes-⌚/index.html",
-    "revision": "adee0ffca1ab685031bf39468768cec7"
+    "revision": "2ad5e211f95de6b0f6e75199389058f8"
   },
   {
     "url": "blog/2021-08-08-css-units-in-a-nutshell-🐚/index.html",
-    "revision": "aebb0191384aef55f6059922e46baa94"
+    "revision": "4f5c667cfb9ddf24cc7da342d6bcb6e2"
   },
   {
     "url": "blog/2021-08-15-css-best-practices-in-responsive-typography/index.html",
-    "revision": "ea2e2d64e1dfa06760aa5d9554c200f4"
+    "revision": "51ecea8364922d59ad23d408a8b9d4f5"
   },
   {
     "url": "blog/2021-10-05-css-logical-properties/index.html",
-    "revision": "c2700f3dc9e1468b1dcb2df83fd07f66"
+    "revision": "d5aea4692c49d1618d9772194912f033"
   },
   {
     "url": "blog/2021-11-03-top-terminal-commands-i-use-for-productivity/index.html",
-    "revision": "eaa56defcddb00fadd77d4b4814312bf"
+    "revision": "2655db4f03249e9b55a85e1a7d7f8fbe"
   },
   {
     "url": "blog/2021-12-23-a-simple-web-accessibility-trick-that-you-most-probably-missed/index.html",
-    "revision": "b1b4229649e2521a17aee0bb894a9e53"
+    "revision": "ac9bbf02be5d16d9d93a9a199b325004"
   },
   {
     "url": "blog/2022-03-06-event-delegation-in-javascript/index.html",
-    "revision": "1cf57e90ad773063f842b4e00a50370a"
+    "revision": "75b053e0df1533f5e041112c675a12a4"
   },
   {
     "url": "blog/2022-04-06-add-google-fonts-to-your-tailwindcss-project/index.html",
-    "revision": "0924037392113f98d002b311a109984f"
+    "revision": "2ad4f2345f04a89654ce5b549da6d150"
   },
   {
     "url": "blog/2022-04-16-file-explorer-recursive-react-component/index.html",
-    "revision": "2e3fb778279fc075641ad7c82c648f31"
+    "revision": "81be918501babf00cbf58876544cbaa7"
   },
   {
     "url": "blog/2022-05-21-recreating-css-tricks-fancy-grid-hover-effect/index.html",
-    "revision": "4729fe9670807c619c0c0f4a785b5535"
+    "revision": "96e5b43b08147d856d10f5eb8614b388"
   },
   {
     "url": "blog/2022-07-23-image-masking-on-hover-using-css-clip-path-and-javascript/index.html",
-    "revision": "95ca327a193ef0c35b78adc94543381c"
+    "revision": "a7b42bce6b900659ba833c4196cb3584"
   },
   {
     "url": "blog/2022-09-13-format-numbers-dates-and-currencies-with-the-intl-object-in-javascript/index.html",
-    "revision": "5bd6ad4072bbab9be042ca3e2873aa1d"
+    "revision": "4f8cb81f41818538ef6e2f327fb69b4a"
   },
   {
     "url": "blog/2022-11-05-controlled-versus-uncontrolled-components-in-react/index.html",
-    "revision": "695d908418fd4c19e8687eea078e954c"
+    "revision": "764c5f6e399c6ffd2eca12f7bb51fd22"
   },
   {
     "url": "blog/2023-07-13-debugging-web-apps-with-browser-dev-tools-6-amazing-tricks/index.html",
-    "revision": "9e7e8cacd8fab402e9b4c037a9e110b8"
+    "revision": "d5050facec8e7c41e7c203a43e3a0cef"
   },
   {
     "url": "blog/2023-07-19-cloning-made-easy-discover-degit-and-wave-goodbye-to-repository-headaches/index.html",
-    "revision": "b4e11eb3a489a353bfea720c68bc2a9d"
+    "revision": "de2c833011217de9bea7dfdbba402a53"
   },
   {
     "url": "blog/2023-07-27-react-portals-render-components-outside-the-current-dom-hierarchy/index.html",
-    "revision": "d480d94865536759fdff34813fc1446f"
+    "revision": "9764ffddaf54980044a99044f55a8b3e"
   },
   {
     "url": "blog/2023-11-12-using-git-diff-and-git-apply-to-share-local-changes-with-peers/index.html",
-    "revision": "1aa2af161078cb6c58ad7a4f2120f669"
+    "revision": "6d9d5841ace7a3550cfbfde2064197b4"
   },
   {
     "url": "blog/2023-12-10-build-your-own-pinterest-style-masonry-grid-a-step-by-step-guide/index.html",
-    "revision": "ab1119d282c867b37eb0bca467d9073c"
+    "revision": "35663a8cdfc01b5298f870a7d9a1010a"
   },
   {
     "url": "blogs/index.html",
-    "revision": "f23e12fcb9fb4bceeea70be13c493c43"
+    "revision": "6dde6651e95010f8a50cc21786c6bda1"
   },
   {
     "url": "css/style.css",
@@ -680,7 +680,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a289c68e8898effe84a159a22859edac"
+    "revision": "7858358d0bd9e352f7c51749cb1709e0"
   },
   {
     "url": "js/script.js",
