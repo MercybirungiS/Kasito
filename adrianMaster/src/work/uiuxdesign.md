@@ -1,13 +1,12 @@
 ---
-title: UI UX Design School
-workUrl: https://uiuxdesignschool.in
+title: Semantic Search APP
+workUrl: https://github.com/adriankasito
 description: "UI UX Design School is a website designed for an Edtech Startup based in Pune"
 tags:
-  - work
-  - html
-  - css
-  - javascript
+  - ongoing
+  - Streamlit
+
 image: /img/work/1.webp
-imageAlt: UI UX Design School
+imageAlt: Semantic Search App
 permalink: false
 ---

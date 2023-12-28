@@ -1,10 +1,10 @@
 ---
-title: Antriksh Global
-workUrl: https://www.antrikshglobal.com
-description: "A Company based in Pune with Video Audio Expertise and also having expertise in other domains like IT and Software"
+title: TEATH
+workUrl: https://github.com/adriankasito
+description: "A WebApp for Extracting Text from Images and applying various thresholding methods with sentiment analysis using TextBlob"
 tags:
-  - work
-  - html
+  - data analysis
+  - datascience
   - css
   - javascript
 image: /img/work/5.webp

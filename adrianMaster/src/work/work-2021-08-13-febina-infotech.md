@@ -1,9 +1,10 @@
 ---
-title: Headless Ecommerce
-workUrl: https://hcommerce.vercel.app/
-description: Headless Ecommerce Application built using Nextjs and Shopify Storefront API.
+title: News Searcher
+workUrl: https://github.com/adriankasito
+description: Enter your search keyword and get a summary of news weblinks with images without actually opening the links.
 tags:
-  - work
+  - Streamlit
+  - Python 
 image: /img/post/headless-commerce.png
-imageAlt: Headless Ecommerce
+imageAlt: News Searcher
 ---
